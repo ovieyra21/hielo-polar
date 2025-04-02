@@ -80,7 +80,7 @@ const ProductsPage = () => {
             <div className="bg-white rounded-lg overflow-hidden shadow-lg border border-ice-100">
               <div className="aspect-w-16 aspect-h-9 relative">
                 <img 
-                  src="https://images.unsplash.com/photo-1482938289607-e9573fc25ebb?auto=format&fit=crop&w=800&q=80" 
+                  src="/public/lovable-uploads/Bolsa-5kg.jpg=80" 
                   alt="Cubos de hielo"
                   className="w-full h-64 object-cover"
                 />
